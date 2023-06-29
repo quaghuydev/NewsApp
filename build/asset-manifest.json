@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/News-ReactJs/static/css/main.4dec9067.css",
+    "main.js": "/News-ReactJs/static/js/main.ab74cd76.js",
+    "static/js/787.08fa795f.chunk.js": "/News-ReactJs/static/js/787.08fa795f.chunk.js",
+    "static/media/qc_tiger.png": "/News-ReactJs/static/media/qc_tiger.b57680f483747523767f.png",
+    "static/media/lazada.jpg": "/News-ReactJs/static/media/lazada.8e9af1f22f88e6319ac5.jpg",
+    "index.html": "/News-ReactJs/index.html",
+    "main.4dec9067.css.map": "/News-ReactJs/static/css/main.4dec9067.css.map",
+    "main.ab74cd76.js.map": "/News-ReactJs/static/js/main.ab74cd76.js.map",
+    "787.08fa795f.chunk.js.map": "/News-ReactJs/static/js/787.08fa795f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dec9067.css",
+    "static/js/main.ab74cd76.js"
+  ]
+}
